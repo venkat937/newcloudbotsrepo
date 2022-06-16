@@ -1,2 +1,6 @@
 *.net
 *.py
+
+!fourth.py
+
+[wqxz]*.java
